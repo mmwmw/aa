@@ -2868,7 +2868,6 @@ body.oauth-login,
   .oauth-authorize .root,
   .p-identity .root {
     display: table;
-    height: 100%;
     width: 100%;
     padding: 0;
     -webkit-box-sizing: border-box;
