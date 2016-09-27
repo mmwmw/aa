@@ -2867,8 +2867,6 @@ body.oauth-login,
   /* line 30, ../../sass/distillery/_dialog-mediaqueries.scss */
   .oauth-authorize .root,
   .p-identity .root {
-    display: table;
-    width: 100%;
     padding: 0;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
