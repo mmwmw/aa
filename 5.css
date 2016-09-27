@@ -1746,10 +1746,7 @@ span.img-outset b {
   border-radius: 3px;
 }
 
-/* line 339, ../../sass/_global/_global.scss */
-.root {
-  min-width: 320px;
-}
+
 
 /* line 344, ../../sass/_global/_global.scss */
 body.thirdparty .root {
