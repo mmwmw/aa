@@ -2854,7 +2854,7 @@ body.oauth-login,
   /* line 18, ../../sass/distillery/_dialog-mediaqueries.scss */
   .p-dialog .dialog-outer,
   .oauth-login .dialog-outer {
-    display: table-cell;
+    
     text-align: left;
     vertical-align: middle;
   }
@@ -2872,7 +2872,7 @@ body.oauth-login,
   /* line 40, ../../sass/distillery/_dialog-mediaqueries.scss */
   .oauth-authorize .dialog-outer,
   .p-identity .dialog-outer {
-    display: table-cell;
+    
     text-align: left;
     vertical-align: middle;
   }
