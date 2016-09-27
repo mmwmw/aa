@@ -1748,7 +1748,6 @@ span.img-outset b {
 
 /* line 339, ../../sass/_global/_global.scss */
 .root {
-  height: 100%;
   min-width: 320px;
 }
 
@@ -2848,7 +2847,7 @@ body.oauth-login,
   /* line 8, ../../sass/distillery/_dialog-mediaqueries.scss */
   .p-dialog .root,
   .oauth-login .root {
-    display: table;
+    
     width: 100%;
     padding: 0;
     -webkit-box-sizing: border-box;
