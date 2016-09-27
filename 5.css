@@ -34,7 +34,7 @@
  * License: http://www.myfonts.com/viewlicense?type=web&buildid=2164953
  * Webfonts copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
  *
- * © 2012 Bitstream Inc
+ * Â© 2012 Bitstream Inc
  */
 @font-face {
   font-family: 'proxima-nova';
@@ -2709,7 +2709,7 @@ body.oauth-login,
 /* line 158, ../../sass/distillery/_dialog.scss */
 .p-dialog .dialog,
 .oauth-login .dialog {
-  width: 90%;
+  width: 100%;
 }
 /* line 162, ../../sass/distillery/_dialog.scss */
 .p-dialog .cta,
@@ -2849,7 +2849,6 @@ body.oauth-login,
   .p-dialog .root,
   .oauth-login .root {
     display: table;
-    height: 100%;
     width: 100%;
     padding: 0;
     -webkit-box-sizing: border-box;
