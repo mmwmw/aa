@@ -1510,7 +1510,7 @@ html.touch .pressed.button-light {
 /* line 102, ../../sass/_library/_buttons.scss */
 .button-pulldown b {
   padding-right: 14px;
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/glyphs/arrow-down-small.png) no-repeat 100% 50%;
+  background: url(https://1.bp.blogspot.com/-xjYhClgf1JA/V-vfu7WUt5I/AAAAAAAAAA8/vMMO3suIFjsF91lgQ9uxvLCGhkP9qKHSwCLcB/s1600/arrow-down-small.png) no-repeat 100% 50%;
 }
 
 /* line 127, ../../sass/_library/_buttons.scss */
@@ -1812,7 +1812,7 @@ body.thirdparty .root {
 .top-bar .logo {
   height: 35px;
   width: 97px;
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/shared/shared-assets.png) no-repeat 0 4px;
+  background: url(https://4.bp.blogspot.com/-wBu2hCFgDgY/V-vfyiuS14I/AAAAAAAAABg/MCRcEjGSpCcNH8FiEFHuwX_z_9ItnoB5wCLcB/s1600/shared-assets.png) no-repeat 0 4px;
   position: absolute;
   top: 4px;
   margin: 0;
@@ -1848,7 +1848,7 @@ body.thirdparty .root {
   }
   /* line 435, ../../sass/_global/_global.scss */
   .top-bar .logo {
-    background-image: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/shared/shared-assets@2x.png);
+    background-image: url(https://2.bp.blogspot.com/-JUNJgAbtV3o/V-vfzXzXHsI/AAAAAAAAABo/FQw2ZKVJks4eq_zZwopdbiWHwme4NAiDACLcB/s1600/shared-assets%25402x);
     background-size: 150px 600px;
   }
 }
@@ -1911,11 +1911,11 @@ body.thirdparty .root {
   height: 44px !important;
   width: 44px !important;
   margin: 0 !important;
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/shared/shared-assets.png) no-repeat 6px -194px;
+  background: url(https://4.bp.blogspot.com/-wBu2hCFgDgY/V-vfyiuS14I/AAAAAAAAABg/MCRcEjGSpCcNH8FiEFHuwX_z_9ItnoB5wCLcB/s1600/shared-assets.png) no-repeat 6px -194px;
 }
 /* line 509, ../../sass/_global/_global.scss */
 .top-bar-home:hover {
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/alpha/fff_10.png);
+  background: url(https://4.bp.blogspot.com/-XhXbw2dGNGo/V-vfuyoZu-I/AAAAAAAAAA0/9ALi4ktS5fsWJsywJHvvtGxuABiMvSEcgCLcB/s1600/fff_10.png);
   background: rgba(255, 255, 255, 0.1);
 }
 /* line 514, ../../sass/_global/_global.scss */
@@ -1930,7 +1930,7 @@ body.thirdparty .root {
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   /* line 528, ../../sass/_global/_global.scss */
   .top-bar-home i {
-    background-image: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/shared/shared-assets@2x.png);
+    background-image: url(https://2.bp.blogspot.com/-JUNJgAbtV3o/V-vfzXzXHsI/AAAAAAAAABo/FQw2ZKVJks4eq_zZwopdbiWHwme4NAiDACLcB/s1600/shared-assets%25402x);
     background-size: 150px 600px;
   }
 }
@@ -2045,7 +2045,7 @@ body.thirdparty .root {
 }
 /* line 659, ../../sass/_global/_global.scss */
 .top-bar-actions > li > a:hover {
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/alpha/fff_10.png);
+  background: url(https://4.bp.blogspot.com/-XhXbw2dGNGo/V-vfuyoZu-I/AAAAAAAAAA0/9ALi4ktS5fsWJsywJHvvtGxuABiMvSEcgCLcB/s1600/fff_10.png);
   background: rgba(255, 255, 255, 0.1);
   border-right-color: rgba(0, 0, 0, 0.15);
 }
@@ -2072,18 +2072,18 @@ body.thirdparty .root {
 }
 /* line 699, ../../sass/_global/_global.scss */
 .top-bar-actions .link-signin i {
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/shared/glyph-assets.png) no-repeat 2px 3px;
+  background: url(https://4.bp.blogspot.com/-f1tWGxaVY08/V-vfwLN16VI/AAAAAAAAABA/mnBzyq9GheYeIMVaJbbS3MBAqBu0XI5HACLcB/s1600/glyph-assets.png) no-repeat 2px 3px;
 }
 /* line 705, ../../sass/_global/_global.scss */
 .top-bar-actions .link-settings i {
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/shared/glyph-assets.png) no-repeat 3px -196px;
+  background: url(https://4.bp.blogspot.com/-f1tWGxaVY08/V-vfwLN16VI/AAAAAAAAABA/mnBzyq9GheYeIMVaJbbS3MBAqBu0XI5HACLcB/s1600/glyph-assets.png) no-repeat 3px -196px;
 }
 /* line 711, ../../sass/_global/_global.scss */
 .top-bar-actions .link-open-instagram i {
   width: 26px;
   height: 28px;
   margin-left: 1px !important;
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/shared/glyph-assets.png) no-repeat 0px -399px;
+  background: url(https://4.bp.blogspot.com/-f1tWGxaVY08/V-vfwLN16VI/AAAAAAAAABA/mnBzyq9GheYeIMVaJbbS3MBAqBu0XI5HACLcB/s1600/glyph-assets.png) no-repeat 0px -399px;
 }
 /* line 718, ../../sass/_global/_global.scss */
 .top-bar-actions .link-open-instagram strong {
@@ -2125,7 +2125,7 @@ body.thirdparty .root {
   right: 13px;
   height: 10px;
   width: 13px;
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/shared/dropdown-arrow.png) no-repeat 0 0;
+  background: url(https://1.bp.blogspot.com/-wsByOzirvIM/V-vfu88j0RI/AAAAAAAAAA4/fbuyT-_Rffo_SY5xdIlPo2-niEu1rIP1gCLcB/s1600/dropdown-arrow.png) no-repeat 0 0;
 }
 /* line 768, ../../sass/_global/_global.scss */
 .account-state .dropdown ul {
@@ -2155,7 +2155,7 @@ html.android .dropdown, html.no-csstransitions .dropdown, html.msie .dropdown, h
 /* line 802, ../../sass/_global/_global.scss */
 .dropdown ul.dropdownOptionList,
 .dropdown ul {
-  background: #eeeeee url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/bg/white-gradient-300px.png) repeat-x 0 0;
+  background: #eeeeee url(https://1.bp.blogspot.com/-zp94tepibv4/V-vfzbNpK7I/AAAAAAAAABk/4z3BJbb9eZkPeKhq9uz4lXBNHawDqIBeACLcB/s1600/white-gradient-300px.png) repeat-x 0 0;
   background-color: rgba(255, 255, 255, 0.3);
   -webkit-border-radius: 3px;
   border-radius: 3px;
@@ -2199,7 +2199,7 @@ html.android .dropdown, html.no-csstransitions .dropdown, html.msie .dropdown, h
 /* line 844, ../../sass/_global/_global.scss */
 .dropdown li a:hover.dropdownLinkHover, .dropdown li a:hover {
   border: 1px solid #eee;
-  background: #999999 url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/bg/white-gradient-300px.png) repeat-x 50% 50%;
+  background: #999999 url(https://1.bp.blogspot.com/-zp94tepibv4/V-vfzbNpK7I/AAAAAAAAABk/4z3BJbb9eZkPeKhq9uz4lXBNHawDqIBeACLcB/s1600/white-gradient-300px.png) repeat-x 50% 50%;
   -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.9);
   -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.9);
   box-shadow: inset 0 1px 0 rgba(255,255,255,0.9);
@@ -2229,7 +2229,7 @@ html.touch .dropdown li a:hover, .dropdown li a:active {
   height: 10px;
   width: 13px;
   z-index: 10;
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/shared/glyph-assets.png) no-repeat -1px -800px;
+  background: url(https://4.bp.blogspot.com/-f1tWGxaVY08/V-vfwLN16VI/AAAAAAAAABA/mnBzyq9GheYeIMVaJbbS3MBAqBu0XI5HACLcB/s1600/glyph-assets.png) no-repeat -1px -800px;
 }
 /* line 885, ../../sass/_global/_global.scss */
 .dropdown i.right {
@@ -2340,7 +2340,7 @@ html.android .dropdown-open .dropdown, html.no-csstransitions .dropdown-open .dr
   height: 40px;
   margin: 2px;
   color: #2e4253;
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/glyphs/internal-settings.png) no-repeat 0 -1px;
+  background: url(https://3.bp.blogspot.com/-BfhM5npHB7w/V-vfw08oz3I/AAAAAAAAABM/m4b5ix8Fi-kMDtM2tn7P78V5cejEOxOQwCLcB/s1600/internal-settings.png) no-repeat 0 -1px;
   opacity: 0.6;
 }
 /* line 1008, ../../sass/_global/_global.scss */
@@ -2372,7 +2372,7 @@ html.android .dropdown-open .dropdown, html.no-csstransitions .dropdown-open .dr
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   /* line 1040, ../../sass/_global/_global.scss */
   .top-bar .internal-settings > a {
-    background-image: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/glyphs/internal-settings@2x.png);
+    background-image: url(https://2.bp.blogspot.com/-OeGAX6YsknM/V-vfxxPSRzI/AAAAAAAAABU/AwVKTShb2JA0kXaAe-EVy0J3XSDMr4bYACLcB/s1600/internal-settings%25402x.png);
     background-size: 40px 80px;
   }
 }
@@ -2505,7 +2505,7 @@ html.android .dropdown-open .dropdown, html.no-csstransitions .dropdown-open .dr
   .account-state .link-signin i,
   .account-state .link-settings i,
   .account-state .link-open-instagram i {
-    background-image: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/shared/glyph-assets@2x.png);
+    background-image: url(https://2.bp.blogspot.com/-OeGAX6YsknM/V-vfxxPSRzI/AAAAAAAAABU/AwVKTShb2JA0kXaAe-EVy0J3XSDMr4bYACLcB/s1600/internal-settings%25402x.png);
     -webkit-background-size: 150px 1600px;
     background-size: 150px 1600px;
   }
@@ -2631,7 +2631,7 @@ body.oauth-login,
   left: 50%;
   top: 50%;
   margin: -14px 0 0 -48px;
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/branding/new-logo.png) no-repeat 0 0;
+  background: url(https://2.bp.blogspot.com/-dYD0xt7IJPs/V-vfyBmke7I/AAAAAAAAABY/l_s525_AbCAB8KMeeqFoJg45oWWgSD9swCLcB/s1600/new-logo.png) no-repeat 0 0;
   text-indent: -9999em;
 }
 /* line 65, ../../sass/distillery/_dialog.scss */
@@ -2703,7 +2703,7 @@ body.oauth-login,
   display: block;
   margin: 0 0 -84px -22px;
   padding-bottom: 20px;
-  background: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/branding/glyph.png) no-repeat 0 0;
+  background: url(https://4.bp.blogspot.com/-WdBqXipmH4k/V-vfwT_bBoI/AAAAAAAAABI/y4dwLTomrC4tJPmPhrqrav4LySCY2A03QCLcB/s1600/glyph.png) no-repeat 0 0;
 }
 
 /* line 158, ../../sass/distillery/_dialog.scss */
@@ -3074,7 +3074,7 @@ body.oauth-login,
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   /* line 214, ../../sass/distillery/_dialog-mediaqueries.scss */
   .dialog .logo {
-    background-image: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/branding/new-logo@2x.png);
+    background-image: url(https://2.bp.blogspot.com/-CfupL9HTdiM/V-vfyUpX-yI/AAAAAAAAABc/x-X9t5eEB2s2z-CcFM3osWWxuv-JheZCwCLcB/s1600/new-logo%25402x.png);
     -webkit-background-size: 96px 33px;
     background-size: 96px 33px;
   }
@@ -3084,7 +3084,7 @@ body.oauth-login,
   body.oauth-authorize footer:last-child:after,
   body.p-identity footer:last-child:after,
   body.oauth-login footer:last-child:after {
-    background-image: url(//instagram-static.s3.amazonaws.com/bluebar/prerelease/images/branding/glyph@2x.png) !important;
+    background-image: url(https://3.bp.blogspot.com/-3EX6dM8hn7o/V-vfwnuuZAI/AAAAAAAAABQ/KoWoWRaeiosuiSbTIe8eTyDKHw4qGrSbwCLcB/s1600/glyph%25402x.png) !important;
     -webkit-background-size: 44px 44px;
     background-size: 44px 44px;
   }
